@@ -2,7 +2,7 @@
 
 Personal configuration files for **Arch Linux** + **Hyprland** + **HyDE**.
 
-https://github.com/user-attachments/assets/hyprlock-demo.mp4
+https://github.com/MagicExist/archlinux-dotfiles/raw/main/assets/hyprlock-demo.mp4
 
 ---
 
