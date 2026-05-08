@@ -1,0 +1,17 @@
+[general]
+bars = 20
+framerate = 60
+sensitivity = 150
+
+[smoothing]
+monstercat = 1
+noise_reduction = 50
+
+[output]
+method = raw
+raw_target = /dev/stdout
+data_format = ascii
+ascii_max_range = 8
+
+[input]
+method = pulse
