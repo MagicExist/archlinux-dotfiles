@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/f5f271ff-44ef-401b-8e9c-2c4a9825e017
 | OS | Arch Linux |
 | WM | Hyprland |
 | Framework | HyDE |
-| Display manager | SDDM (SilentSDDM — rei theme) |
+| Display manager | SDDM (SilentSDDM — gohan config) |
 | Screen locker | Hyprlock |
 | Visualizer | Cava |
 | Shell | Zsh |
@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/f5f271ff-44ef-401b-8e9c-2c4a9825e017
 
 ## What's included
 
-- **SDDM** — [SilentSDDM](https://github.com/uiriansan/SilentSDDM) with rei config (animated mp4 background)
+- **SDDM** — [SilentSDDM](https://github.com/uiriansan/SilentSDDM) with gohan config (animated mp4 background)
 - **Hyprlock** — lock screen layout with profile photo, clock, and music widget
 - **Cava equalizer** — animated audio visualizer above and below the song title
 - **Scripts** — `eq.sh`, `eq_inverted.sh`, `nowplaying.sh`, `cava_to_file.sh`
