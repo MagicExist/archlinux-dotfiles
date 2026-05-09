@@ -9,6 +9,8 @@
 
 Personal configuration files for **Arch Linux** + **Hyprland** + **HyDE**.
 
+![main screen demo](assets/main-screen-demo.gif)
+
 ![hyprlock demo](assets/hyprlock-demo.gif)
 
 </div>
